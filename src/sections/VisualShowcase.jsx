@@ -4,17 +4,17 @@ import { motion } from 'framer-motion';
 const visuals = [
   {
     title: "CI/CD Pipelines",
-    image: "/cicd_pipeline.png",
+    image: "./cicd_pipeline.png",
     description: "Automated infinite deployment loops."
   },
   {
     title: "Cloud Infrastructure",
-    image: "/cloud_servers.png",
+    image: "./cloud_servers.png",
     description: "Scalable, resilient data centers."
   },
   {
     title: "DevOps Security",
-    image: "/devops_security.png",
+    image: "./devops_security.png",
     description: "Zero-trust network protection."
   }
 ];

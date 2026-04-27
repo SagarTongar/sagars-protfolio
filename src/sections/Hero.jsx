@@ -82,7 +82,7 @@ export function Hero() {
               
               {/* Circular PNG Frame */}
               <div className="relative w-64 h-64 sm:w-72 sm:h-72 lg:w-96 lg:h-96 rounded-full glass-panel border-4 border-white shadow-2xl flex items-center justify-center overflow-hidden bg-slate-50 z-10 transform transition-transform duration-500 group-hover:scale-[1.02]">
-                <img src="/profile.png" alt="Sagar Tongar" className="w-full h-full object-cover relative z-10" />
+                <img src="./profile.png" alt="Sagar Tongar" className="w-full h-full object-cover relative z-10" />
               </div>
             </div>
           </motion.div>
