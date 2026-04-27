@@ -74,7 +74,7 @@ If you need robust **CI/CD pipelines, Infrastructure as Code (IaC), or seamless 
 This repository houses the source code for my interactive, 3D-accelerated Web Portfolio. 
 It features a complete "Cloud Console" theme built with **React, Vite, Tailwind CSS, and Framer Motion**.
 
-👉 **[View My Live Portfolio Here](https://SagarTongar.github.io/portfolio/)**
+👉 **[View My Live Portfolio Here](https://sagartongar.github.io/portfolio/)**
 
 <div align="center">
   <img src="public/cicd_pipeline.png" width="300" alt="CI/CD Pipeline" />
