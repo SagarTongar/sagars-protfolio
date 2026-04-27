@@ -46,7 +46,7 @@ export function Posts() {
           {posts.map((post, index) => (
             <Card key={index} delay={index * 0.1} className="flex flex-col h-full bg-white group">
               <div className="flex items-center gap-3 mb-6">
-                <img src="./profile.png" alt="Sagar Tongar" className="w-12 h-12 rounded-full object-cover border border-slate-200" />
+                <img src="./profile_v2.png" alt="Sagar Tongar" className="w-12 h-12 rounded-full object-cover border border-slate-200" />
                 <div>
                   <h4 className="font-bold text-slate-900 leading-tight">Sagar Tongar</h4>
                   <p className="text-xs text-slate-500">DevOps & Cloud Lead at Sopra Steria</p>
